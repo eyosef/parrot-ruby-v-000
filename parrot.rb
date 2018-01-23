@@ -3,6 +3,6 @@
 
 def parrot(sound)
   var sound = "Squawk!"
-  puts "Squawk!"
-  return "Squawk!"
+  puts sound
+  return sound
 end
