@@ -2,7 +2,4 @@
 # returns the phrase
 
 def parrot(sound)
-  var sound = "Squawk!"
-  puts sound
-  return sound
 end
